@@ -1,6 +1,6 @@
 // function doubleIt(num){
 //     return num * 2;
-// }
+// }rytu
 
 // const doubleIt= function myFun(num){
 //     return num * 2;
