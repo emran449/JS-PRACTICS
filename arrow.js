@@ -5,7 +5,7 @@
 // const doubleIt= function myFun(num){
 //     return num * 2;
 // }
-
+// new line 
 const doubleIt = num=> num *2;
 const add = (x, y) => x+y;
 const give5 = () => 5;
